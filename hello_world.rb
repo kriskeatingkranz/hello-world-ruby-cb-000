@@ -1,7 +1,7 @@
-name = gets
+
 
 puts "What is your name"
 
-gets
+gets = name
 
 puts "Hello " + name
